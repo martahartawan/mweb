@@ -1,0 +1,14 @@
+section {
+    min-height: 420x;
+}
+
+.container {
+    text-allign: center;
+}
+
+footer {
+    padding: 30px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
